@@ -4,8 +4,7 @@ An autonomous unmanned aerial vehicle (UAV) utilizes object detection (YOLOv7) a
 
 
 
-
-https://github.com/SuneethJerri/Object-Detection-and-Tracking-using-UAV/assets/80540226/c6d9796e-dd22-4f8d-a27c-921150ba3c83
+https://github.com/Akshat-vg/Autonomous-Tank-Detection-and-Tracking-by-a-UAV/assets/93379911/4c700978-5809-41ff-81b4-8fa12daa6c7e
 
 
 
